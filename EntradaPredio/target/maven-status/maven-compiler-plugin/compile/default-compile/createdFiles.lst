@@ -1,0 +1,3 @@
+Model\Pessoa.class
+DAO\PessoaDAO.class
+View\TelaCadastro.class

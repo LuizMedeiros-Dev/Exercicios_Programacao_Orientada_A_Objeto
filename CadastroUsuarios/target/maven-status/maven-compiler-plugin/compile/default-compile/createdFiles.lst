@@ -1,0 +1,4 @@
+View\TelaUser.class
+DAO\Conexao.class
+Model\User.class
+DAO\UserDAO.class
