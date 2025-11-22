@@ -33,6 +33,6 @@ Alguns exercícios podem conter comentários ou anotações feitas durante o est
 
 ## 👨‍💻 Autor
 
-**Luiz Fellipe Silva Medeiros**
+**Luiz Fellipe Medeiros**  
 **Linkedin:** www.linkedin.com/in/luiz-fellipe-medeiros
 
